@@ -1,0 +1,16 @@
+{
+  "name": "DiaClaro — agenda e clima",
+  "short_name": "DiaClaro",
+  "description": "Agenda, tarefas, notas, lembretes e previsão do tempo em um só lugar.",
+  "lang": "pt-BR",
+  "start_url": "./DiaClaro.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6757d9",
+  "theme_color": "#6757d9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
